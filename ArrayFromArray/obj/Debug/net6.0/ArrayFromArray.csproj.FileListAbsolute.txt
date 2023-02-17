@@ -1,0 +1,15 @@
+/Users/amirbekmirzozoda/RiderProjects/ArrayFromArray/ArrayFromArray/bin/Debug/net6.0/ArrayFromArray
+/Users/amirbekmirzozoda/RiderProjects/ArrayFromArray/ArrayFromArray/bin/Debug/net6.0/ArrayFromArray.deps.json
+/Users/amirbekmirzozoda/RiderProjects/ArrayFromArray/ArrayFromArray/bin/Debug/net6.0/ArrayFromArray.runtimeconfig.json
+/Users/amirbekmirzozoda/RiderProjects/ArrayFromArray/ArrayFromArray/bin/Debug/net6.0/ArrayFromArray.dll
+/Users/amirbekmirzozoda/RiderProjects/ArrayFromArray/ArrayFromArray/bin/Debug/net6.0/ArrayFromArray.pdb
+/Users/amirbekmirzozoda/RiderProjects/ArrayFromArray/ArrayFromArray/obj/Debug/net6.0/ArrayFromArray.csproj.AssemblyReference.cache
+/Users/amirbekmirzozoda/RiderProjects/ArrayFromArray/ArrayFromArray/obj/Debug/net6.0/ArrayFromArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirbekmirzozoda/RiderProjects/ArrayFromArray/ArrayFromArray/obj/Debug/net6.0/ArrayFromArray.AssemblyInfoInputs.cache
+/Users/amirbekmirzozoda/RiderProjects/ArrayFromArray/ArrayFromArray/obj/Debug/net6.0/ArrayFromArray.AssemblyInfo.cs
+/Users/amirbekmirzozoda/RiderProjects/ArrayFromArray/ArrayFromArray/obj/Debug/net6.0/ArrayFromArray.csproj.CoreCompileInputs.cache
+/Users/amirbekmirzozoda/RiderProjects/ArrayFromArray/ArrayFromArray/obj/Debug/net6.0/ArrayFromArray.dll
+/Users/amirbekmirzozoda/RiderProjects/ArrayFromArray/ArrayFromArray/obj/Debug/net6.0/refint/ArrayFromArray.dll
+/Users/amirbekmirzozoda/RiderProjects/ArrayFromArray/ArrayFromArray/obj/Debug/net6.0/ArrayFromArray.pdb
+/Users/amirbekmirzozoda/RiderProjects/ArrayFromArray/ArrayFromArray/obj/Debug/net6.0/ArrayFromArray.genruntimeconfig.cache
+/Users/amirbekmirzozoda/RiderProjects/ArrayFromArray/ArrayFromArray/obj/Debug/net6.0/ref/ArrayFromArray.dll
